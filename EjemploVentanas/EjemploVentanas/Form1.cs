@@ -22,10 +22,7 @@ namespace EjemploVentanas
             new Baratheon().ShowDialog();
         }
 
-        private void button2_Click(object sender, EventArgs e)
-        {
-            new Snow().ShowDialog();
-        }
+        
 
         private void button3_Click(object sender, EventArgs e)
         {
@@ -37,10 +34,7 @@ namespace EjemploVentanas
             new Greyjoy().ShowDialog();
         }
 
-        private void button5_Click(object sender, EventArgs e)
-        {
-            new Martell().ShowDialog();
-        }
+       
 
         private void button6_Click(object sender, EventArgs e)
         {
